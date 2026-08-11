@@ -29,4 +29,4 @@ document.getElementById("instagram-btn").addEventListener("click", function (e) 
 document.getElementById("instagram-btn-footer").addEventListener("click", function (e) {
     e.preventDefault();
     window.open("https://www.instagram.com/ns_suri_07_/", "_blank");
-})
+});   
